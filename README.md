@@ -8,3 +8,7 @@
 ## Class 2
 
 - [Exercises](https://github.com/tranvinh146/vbi-rust-exercises/tree/exercise/class-2)
+
+## Class 3
+
+- [Exercises](https://github.com/tranvinh146/vbi-rust-exercises/tree/exercise/class-3)
